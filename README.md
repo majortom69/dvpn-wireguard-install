@@ -43,7 +43,7 @@ Run the script again to add or remove clients!
 
 It's also possible to automate the addition of a new user. Here, the key is to provide the (string) value of the `MENU_OPTION` variable along with the remaining mandatory variables before invoking the script.
 
-The following Bash script adds a new user `foo` to an existing OpenVPN configuration
+The following Bash script adds a new user `foo` to an existing Wiregurad configuration
 
 ```bash
 #!/bin/bash
